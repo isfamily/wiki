@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>https://onetwo.ren/wiki/#:a</loc>
+		<lastmod>2022-12-19</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:favicon.ico</loc>
 		<lastmod>2020-06-05</lastmod>
 		<changefreq>monthly</changefreq>
@@ -8,12 +14,6 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:GettingStarted</loc>
-		<lastmod>2022-12-19</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
-		<loc>https://onetwo.ren/wiki/#:tabi%2520xing%2520d</loc>
 		<lastmod>2022-12-19</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
@@ -39,6 +39,12 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:TiddlyWikiIconWhite.png</loc>
 		<lastmod>2020-06-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:什么是声音？什么是话语的权柄？</loc>
+		<lastmod>2022-12-19</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
