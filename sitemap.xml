@@ -54,4 +54,16 @@
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:检验真假基督徒的十一个问题</loc>
+		<lastmod>2022-12-21</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:祷告激励</loc>
+		<lastmod>2022-12-21</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
 </urlset>
