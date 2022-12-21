@@ -13,8 +13,8 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://onetwo.ren/wiki/#:GettingStarted</loc>
-		<lastmod>2022-12-19</lastmod>
+		<loc>https://onetwo.ren/wiki/#:FOCUS%2520ON</loc>
+		<lastmod>2022-12-21</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -45,6 +45,12 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:什么是声音？什么是话语的权柄？</loc>
 		<lastmod>2022-12-19</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:梦想</loc>
+		<lastmod>2022-12-21</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
