@@ -1,13 +1,9 @@
 created: 20221219031541845
 creator: 真诚
-modified: 20221221003505403
+modified: 20221221003526474
 modifier: 真诚
 title: FOCUS ON
 type: text/vnd.tiddlywiki
 wysiwyg: yes
 
-<td align="left"><$edit-text tiddler="$:/SiteTitle" default="" tag="input"/></td>
-<td align="left"><$edit-text tiddler="$:/SiteSubtitle" default="" tag="input"/></td>
-<br ></br></br></br></br>
-<<lingo DefaultTiddlers/TopHint>>
-<td align="left"><$edit tag="textarea" tiddler="$:/DefaultTiddlers"/><br ></br></br></br></br><<lingo DefaultTiddlers/BottomHint>></td>
+<td align="left"><$edit-text tiddler="$:/SiteTitle" default="" tag="input"/></td><td align="left"><$edit-text tiddler="$:/SiteSubtitle" default="" tag="input"/></td><br ></br><<lingo DefaultTiddlers/TopHint>><td align="left"><$edit tag="textarea" tiddler="$:/DefaultTiddlers"/><br ></br></br></br></br></br><<lingo DefaultTiddlers/BottomHint>></td>
